@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript compiled files
+dist/
+*.js
+*.js.map
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Test output
+coverage/
+*.lcov
+
+# Optional npm cache directory
+.npm/
+
+# ESLint cache
+.eslintcache
+
+# TypeScript config files
+tsconfig.tsbuildinfo
