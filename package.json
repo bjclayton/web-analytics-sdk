@@ -1,0 +1,31 @@
+{
+  "name": "web-analytics-sdk",
+  "version": "1.0.0",
+  "description": "A lightweight web analytics tracking package for page views, events, and user data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "lint": "eslint 'src/**/*.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/web-analytics-sdk.git"
+  },
+  "keywords": [
+    "web-analytics",
+    "page-view-tracking",
+    "javascript-tracking",
+    "UAParser",
+    "geolocation",
+    "web",
+    "analytics",
+    "tracking",
+    "user-agent"
+  ],
+  "author": "John Clayton",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "typescript": "^5.6.2"
+  }
+}
